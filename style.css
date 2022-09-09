@@ -56,7 +56,6 @@ button.hero-button:hover {
 section.my-services {
     padding: 60px 0;
     background-color: aliceblue;
-    /* margin-bottom: 10px; */
 }
 
 div.my-services-subtitle {
@@ -108,7 +107,6 @@ div.my-services-item:hover .my-services-item-icon-wrapper {
 /*section my expertise */
 section.my-expertise {
     padding: 60px 0;
-    /* background-color: aliceblue; */
 }
 
 div.my-expertise-subtitle {
@@ -141,6 +139,7 @@ div.my-expertise-progress-bar .progress-success {
     border-radius: 10px;
 }
 
+/* expertise one */
 div.my-expertise-progress-bar .my-expertise-one-progress-success {
     width: 80%;
     background: rgb(252, 72, 72);
@@ -173,6 +172,7 @@ div.my-expertise-one-progress-success::after {
     transform: translate(50%, -50%);
 }
 
+/* expertise two */
 div.my-expertise-progress-bar .my-expertise-two-progress-success {
     width: 85%;
     background: rgb(252, 72, 72);
@@ -203,6 +203,7 @@ div.my-expertise-two-progress-success::after {
     transform: translate(50%, -50%);
 }
 
+/* expertise three */
 div.my-expertise-progress-bar .my-expertise-three-progress-success {
     width: 50%;
     background: rgb(252, 72, 72);
