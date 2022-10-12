@@ -40,6 +40,11 @@ section.hero img.hero-image-me {
   right: 0;
   bottom: 0;
 }
+@media screen and (max-width: 576px) {
+  section.hero img.hero-image-me {
+    display: none;
+  }
+}
 section.hero button.hero-button {
   padding: 10px 45px;
   transition: all 0.3s linear;
@@ -94,10 +99,14 @@ section.my-services .my-services-item-icon-wrapper {
   box-shadow: 0 0 14px -5px rgba(0, 0, 0, 0.13);
   color: var(--primary);
 }
-
 section.about-me .about-me-img {
   bottom: 0;
   max-height: 500px;
+}
+@media (max-width: 576px) {
+  section.about-me .about-me-img {
+    margin-bottom: 20px;
+  }
 }
 section.about-me .about-me-subtitle {
   font-size: var(--subtitle-size);
@@ -105,12 +114,31 @@ section.about-me .about-me-subtitle {
   text-transform: uppercase;
   color: var(--primary);
 }
+@media (max-width: 576px) {
+  section.about-me .about-me-subtitle {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+}
 section.about-me .about-me-title {
   font-size: var(--title-size);
   font-weight: var(--title-weight);
 }
+@media (max-width: 576px) {
+  section.about-me .about-me-title {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+}
 section.about-me .about-me-description-text {
   font-size: var(--description-text-size);
+}
+@media (max-width: 576px) {
+  section.about-me .about-me-description-text {
+    text-align: center;
+  }
 }
 section.about-me button .about-me-button {
   padding: 10px 45px;
@@ -285,6 +313,7 @@ section.carosel img.carosel-image {
   border-radius: 20px;
   border: 0.5px solid var(--primary);
 }
+
 footer button {
   background-color: rgb(121, 120, 120);
   width: 40px;

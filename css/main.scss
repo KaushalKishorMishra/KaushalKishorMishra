@@ -52,7 +52,7 @@ section.hero {
     height: 650px;
     right: 0;
     bottom: 0;
-    @media screen and (max-width: $small) {
+    @media screen and (max-width: 576px) {
       display: none;
     }
   }
@@ -120,19 +120,35 @@ section {
     .about-me-img {
       bottom: 0;
       max-height: 500px;
+      @media (max-width: 576px) {
+        margin-bottom: 20px;
+      }
     }
     .about-me-subtitle {
       font-size: var(--subtitle-size);
       font-weight: var(--subtitle-weight);
       text-transform: uppercase;
       color: var(--primary);
+      @media (max-width: 576px) {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
     }
     .about-me-title {
       font-size: var(--title-size);
       font-weight: var(--title-weight);
+      @media (max-width: 576px) {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
     }
     .about-me-description-text {
       font-size: var(--description-text-size);
+      @media (max-width: 576px) {
+        text-align: center;
+      }
     }
     button {
       .about-me-button {
@@ -147,7 +163,7 @@ section {
   }
 }
 
-section section.my-expertise {
+section.my-expertise {
   padding: 60px 0;
   background-color: aliceblue;
   .my-expertise-subtitle {
@@ -334,9 +350,6 @@ section {
         border-radius: 20px;
         border: 0.5px solid var(--primary);
       }
-    }
-
-    .owl-dots {
     }
   }
 }
