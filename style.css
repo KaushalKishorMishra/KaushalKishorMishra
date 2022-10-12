@@ -6,7 +6,13 @@
     --subtitle-weight: 700;
     --description-text-size: 1.25rem;
     --primary: #dc3545;
+    --small: 576px;
+    --medium: 768px;
+    --large: 992px;
+    --extraLarge: 1200px;
+    --extraExtraLarge: 1400px;
 }
+
 
 * {
     margin: auto 0;
@@ -106,23 +112,24 @@ div.my-services-item:hover .my-services-item-icon-wrapper {
 
 
 /* about me section*/
-img.about-me-img{
-    bottom:0;
+img.about-me-img {
+    bottom: 0;
     max-height: 500px;
 }
 
-div.about-me-subtitle{
+div.about-me-subtitle {
     font-size: var(--subtitle-size);
     font-weight: var(--subtitle-weight);
     text-transform: uppercase;
     color: var(--primary);
 }
-div.about-me-title{
+
+div.about-me-title {
     font-size: var(--title-size);
     font-weight: var(--title-weight);
 }
 
-div.about-me-description-text{
+div.about-me-description-text {
     font-size: var(--description-text-size);
 }
 
@@ -132,7 +139,7 @@ button.about-me-button {
     text-transform: uppercase;
 }
 
-button.about-me-button:hover{
+button.about-me-button:hover {
     transform: translateY(-7px)scale(1.1) !important;
 }
 
@@ -268,6 +275,7 @@ div.my-expertise-three-progress-success::after {
     outline: 4px solid #f1aa4f;
     transform: translate(50%, -50%);
 }
+
 /* expertise four*/
 div.my-expertise-progress-bar .my-expertise-four-progress-success {
     width: 65%;
@@ -300,19 +308,50 @@ div.my-expertise-four-progress-success::after {
 }
 
 /* section footer */
-div.footer-title{
+div.footer-title {
     font-size: var(--title-size);
     font-weight: var(--title-weight);
     color: var(--primary);
     text-align: center;
 }
-footer button{
+
+footer button {
     background-color: rgb(121, 120, 120);
     width: 40px;
     height: 40px;
     border-radius: 100%;
     border: 0px;
 }
-button.footer-icon{
+
+button.footer-icon {
     font-size: 1.5rem;
+}
+
+@media all and (max-width: 576px) {
+    section.hero .hero-section-media-query-name{
+        font-size: 1rem !important;
+    }
+    section.hero .hero-section-media-query-responsive{
+        display: grid !important;
+    }
+    section.hero button.hero-button{
+        place-content: center;
+        transform: none !important;
+    }
+    section.about-me .about-me-media-query{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    section.about-me button.about-me-button-media-query{
+        width:100%;
+        transform: none !important;
+    }
+}
+
+
+@media all and (max-width:992px) {
+    img.hero-image-me {
+        display: none;
+    }
 }
