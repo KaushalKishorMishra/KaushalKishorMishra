@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Kishor Mishra</h1>
-<h3 align="center">A fullstack developer from Nepal</h3>
+<h3 align="center">A **FULLSTACK DEVELOPER** from Nepal</h3>
 
 - 🌱 I’m currently learning **NextJs, TypeScript**
 
