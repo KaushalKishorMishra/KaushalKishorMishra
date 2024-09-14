@@ -9,7 +9,18 @@
 
 
 # 💻 Tech Stack:
-[![What I know......](https://skillicons.dev/icons?i=js,html,css,figma,materialui,mongodb,react,python,sequelize,tailwind)](https://skillicons.dev)
+## ⌛ What i know how to use till now....
+[![What I know......](https://skillicons.dev/icons?i=js,html,css,figma,materialui,mongodb,react,python,sequelize,tailwind,postgres,ts,prisma,express,postman,vite,sass)](https://skillicons.dev)
+
+## 📑 What i am learning to use....
+[![What I know......](https://skillicons.dev/icons?i=nextjs,supabase,firebase,blender,threejs,redis,neovim,vim,bash,linux,arch,tensorflow)](https://skillicons.dev)
+
+## 1️⃣ What i have used once in life....
+[![What I know......](https://skillicons.dev/icons?i=ae,anaconda,django,flutter,laravel,ps,unity,unreal,wordpress,vue,xd,webflow)](https://skillicons.dev)
+
+## ✔️ What i use daily....
+[![What I know......](https://skillicons.dev/icons?i=windows,vscode,react,js,ts,css,tailwind,html,nextjs,vite,figma,postman,regex,bash,nodejs,notion,powershell,prisma,postgres,sequelize)](https://skillicons.dev)
+
 
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KaushalKishorMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
