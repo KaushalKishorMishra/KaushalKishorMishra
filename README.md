@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **km645195@gmail.com**
 
-<br>
+<br></br>
 # 💻 Tech Stack:
 ### ⌛ What i know how to use till now....
 [![What I know......](https://skillicons.dev/icons?i=js,html,css,figma,materialui,mongodb,react,python,sequelize,tailwind,postgres,ts,prisma,express,postman,vite,sass)](https://skillicons.dev)
@@ -21,7 +21,7 @@
 ### ✔️ What i use daily....
 [![What I know......](https://skillicons.dev/icons?i=windows,vscode,react,js,ts,css,tailwind,html,nextjs,vite,figma,postman,regex,bash,nodejs,notion,powershell,prisma,postgres,sequelize)](https://skillicons.dev)
 
-<br>
+<br></br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KaushalKishorMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaushalKishorMishra&theme=dark&hide_border=false)<br/>
