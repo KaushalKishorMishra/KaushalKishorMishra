@@ -20,7 +20,7 @@
 [![What I know......](https://skillicons.dev/icons?i=ae,anaconda,django,flutter,laravel,ps,unity,unreal,wordpress,vue,xd,webflow&perline=10)](https://skillicons.dev)
 
 ### ✔️ What I rely on in my daily routine....
-[![What I know......](https://skillicons.dev/icons?i=arch,vscode,zed,neovim,react,js,ts,css,tailwind,html,nextjs,vite,figma,postman,regex,bash,nodejs,notion,powershell,prisma,postgres,sequelize&perline=10)](https://skillicons.dev)
+[![What I know......](https://skillicons.dev/icons?i=arch,vscode,neovim,react,js,ts,css,tailwind,html,nextjs,vite,figma,postman,regex,bash,nodejs,notion,powershell,prisma,postgres,sequelize&perline=10)](https://skillicons.dev)
 
 <br/>
 
