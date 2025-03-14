@@ -11,16 +11,16 @@
 
 # 💻 Tech Stack:
 ### ⌛ What I am proficient in so far....
-[![What I know......](https://skillicons.dev/icons?i=js,html,css,figma,materialui,mongodb,react,python,sequelize,tailwind,postgres,ts,prisma,express,postman,vite,sass)](https://skillicons.dev)
+[![What I know......](https://skillicons.dev/icons?i=js,html,css,figma,materialui,mongodb,react,python,sequelize,tailwind,postgres,ts,prisma,express,postman,vite,sass&perline=5)](https://skillicons.dev)
 
 ### 📑 What I am working on mastering....
-[![What I know......](https://skillicons.dev/icons?i=nextjs,supabase,firebase,blender,threejs,redis,neovim,vim,bash,linux,arch,tensorflow)](https://skillicons.dev)
+[![What I know......](https://skillicons.dev/icons?i=nextjs,supabase,firebase,blender,threejs,redis,vim,tensorflow&perline=5)](https://skillicons.dev)
 
 ### 1️⃣ What I’ve experimented with once....
-[![What I know......](https://skillicons.dev/icons?i=ae,anaconda,django,flutter,laravel,ps,unity,unreal,wordpress,vue,xd,webflow)](https://skillicons.dev)
+[![What I know......](https://skillicons.dev/icons?i=ae,anaconda,django,flutter,laravel,ps,unity,unreal,wordpress,vue,xd,webflow&perline=5)](https://skillicons.dev)
 
 ### ✔️ What I rely on in my daily routine....
-[![What I know......](https://skillicons.dev/icons?i=windows,vscode,react,js,ts,css,tailwind,html,nextjs,vite,figma,postman,regex,bash,nodejs,notion,powershell,prisma,postgres,sequelize)](https://skillicons.dev)
+[![What I know......](https://skillicons.dev/icons?i=arch,vscode,zed,neovim,react,js,ts,css,tailwind,html,nextjs,vite,figma,postman,regex,bash,nodejs,notion,powershell,prisma,postgres,sequelize&perline=5)](https://skillicons.dev)
 
 <br/>
 
